@@ -1,0 +1,2 @@
+# AiSemProject
+Ai sem project
